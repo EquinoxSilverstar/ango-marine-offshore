@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ango-marine-offshore/static/css/main.37a8e756.css",
+    "main.js": "/ango-marine-offshore/static/js/main.388793a6.js",
+    "static/js/453.0c2de6bd.chunk.js": "/ango-marine-offshore/static/js/453.0c2de6bd.chunk.js",
+    "index.html": "/ango-marine-offshore/index.html",
+    "main.37a8e756.css.map": "/ango-marine-offshore/static/css/main.37a8e756.css.map",
+    "main.388793a6.js.map": "/ango-marine-offshore/static/js/main.388793a6.js.map",
+    "453.0c2de6bd.chunk.js.map": "/ango-marine-offshore/static/js/453.0c2de6bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a8e756.css",
+    "static/js/main.388793a6.js"
+  ]
+}
