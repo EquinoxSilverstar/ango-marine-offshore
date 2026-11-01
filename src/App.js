@@ -1,4 +1,4 @@
-import { BrowserRouter, Link, NavLink, Route, Routes } from 'react-router-dom';
+import { HashRouter, Link, NavLink, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import Technical from './pages/Technical';
@@ -67,9 +67,9 @@ function Layout() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Layout />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
